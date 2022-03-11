@@ -6,6 +6,6 @@ The first one is a comparison study of simple linear regression vs. the Lasso me
 
 In the second part, variable selection procedures are used on a real life dataset to identify the relevant predictors of diabetes in a given population. Beforehand, a visualization analysis is presented to get an idea of the relevant predictors. Then, several models are fitted to the data such as  stepwise selection procedures, Elastic Nets, and a classification tree. Finally, the number of times each features were chosen is counted and the active set estimated is defined as the variables that were chosen by at least 60\% of the models. The results come close the initial expectations from the previous visualization analysis. The code can be found in the file 'variable selection.R'.
 
-The whole procedure and analysis can be found in the report file.
+The whole description of the procedure and analysis can be found in the report file.
 
 This project was conducted as part of the LSTAT2450 Statistical learning course at UCLouvain in the first term of 2020.
